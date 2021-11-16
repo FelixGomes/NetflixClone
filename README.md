@@ -1,4 +1,3 @@
 # NetflixClone
-Netflix Clone pagina inicial com carrossel 
+Recriei a página inicial do Netflix usando carrossel para mostrar o catálogo de filmes.
 
-simples - pretendo repaginar em breve e mudar algumas coisas à medida que vou aperfeiçoando minhas habilidades em front-end.
